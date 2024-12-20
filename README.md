@@ -21,7 +21,10 @@ Advanced SQL, DAX in Power BI, and dynamic data modeling.
 ## 📚 Projects & Achievements  
 - Reduced manual analysis time by 90% through automated dashboards.  
 - Improved lead time by 11% with process optimization strategies.  
-- Enhanced customer query resolution with a chatbot leveraging AWS.  
+- Enhanced customer query resolution with a chatbot leveraging AWS.
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ankitkumar174&label=Profile%20views&color=0e75b6&style=flat" alt="ankitkumar174" /> </p>
+
 
 ## 🌎 Let's Connect  
 - [Email me](mailto:lalitthokal@gmail.com)  
