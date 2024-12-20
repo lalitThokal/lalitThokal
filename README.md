@@ -23,7 +23,7 @@ Advanced SQL, DAX in Power BI, and dynamic data modeling.
 - Improved lead time by 11% with process optimization strategies.  
 - Enhanced customer query resolution with a chatbot leveraging AWS.
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ankitkumar174&label=Profile%20views&color=0e75b6&style=flat" alt="ankitkumar174" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ankitkumar174&label=Profile%20views&color=0e75b6&style=flat" alt="lalitThokal" /> </p>
 
 
 ## 🌎 Let's Connect  
