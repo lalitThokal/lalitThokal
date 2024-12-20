@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Lalit Thokal!  
-🔍 **Data Analyst | BI Developer | SQL Enthusiast**  
+🔍 **Data Analyst | Business Analyst | BI Developer | SQL Enthusiast**  
 
 ## 🚀 About Me  
 I am a passionate Data Analyst with 2 years of experience in creating data-driven solutions. I specialize in building interactive dashboards, crafting insightful reports, and implementing data security measures. My expertise includes **Power BI**, **SQL**, and **Excel**, which I use to drive business decisions and optimize workflows.  
